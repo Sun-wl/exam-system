@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="angular1.4.0" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://F:/学习资料/angularJS/AngularJS_day01/day01/文档/angular-1.4.0" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://F:/学习资料/angularJS/AngularJS_day01/day01/文档/angular-1.4.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
